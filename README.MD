@@ -42,6 +42,7 @@
 | AICoding | [https://aicoding.sh/](https://aicoding.sh/) | • 新用户福利：加入社区立得$5免费额度<br>• 具体定价方案可在登录后查看 | • 支持OpenClaw、VSCode等主流IDE无缝集成<br>• 高质量账号池动态调度，智能切换避免封号<br>• 一键安装无需配置，即开即用<br>• 已有10000+团队使用，服务稳定可靠 | `IDE集成友好` `防封号` `易部署` `新用户福利` |
 | EasyRouter | [https://easyrouter.io/](https://easyrouter.io/) | • 无订阅制，额度抵扣算力，用多少扣多少<br>• 五月全场Token消耗8.5折，DeepSeek-v4-Pro享2.5折特惠<br>• 多档额度套餐可选：$20/$100/$500/$1500 | • 傅盛团队出品，背景实力雄厚<br>• 统一OpenAI兼容接口，一行代码切换，零迁移成本<br>• 支持40+顶级大模型，全面覆盖Claude全系列模型<br>• 全球多节点部署，智能路由，P99延迟低于200ms<br>• 99.9%可用性SLA保障，自动故障转移与负载均衡 | `全模型支持` `低延迟` `高稳定` `大厂背景` `SDK兼容好` `新用户优惠` |
 | B.AI | [https://b.ai/](https://b.ai/) | • 一个 API Key 即可调用 Claude + GPT + Gemini + 国产大模型全系列<br>• 支持区块链地址登录，纯匿名支付（兼容邮箱/Visa/Master/Apple Pay）<br>• 官方 API 直连，零篡改，价格全网最低 | • 孙宇晨（Justin Sun）团队推出的AI模型聚合平台<br>• 官方公告：[孙哥Twitter](https://x.com/justinsuntron/status/2050104947342299208)<br>• BAIClaw 上线"孙哥大脑"功能，支持用孙哥思维交易加密货币 | `新上线` `孙宇晨团队` `全模型支持` `匿名支付` `加密友好` |
+| API快连（apikl） | [https://apikl.com/](https://apikl.com/) | • 按量付费无订阅，余额永久有效<br>• 按官方价低倍率计费（$1=￥7 结算），价格透明可查<br>• 支持支付宝/微信支付，可小额试用 | • 基于 Claude / Codex / Gemini 官方订阅通道转发（非逆向），模型更新照常可用<br>• 国内可直连，免代理<br>• 一个 OpenAI 兼容 Key 通吃 Claude、Codex(GPT)、Gemini 全系<br>• 支持 Prompt Caching，Claude Code 高频场景更省<br>• 多账号号池 + 自动故障转移<br>• 适配 Claude Code、Codex CLI、Gemini CLI、Cursor、TRAE 等 | `官方上游` `国内直连` `一个Key全模型` `支持缓存` `按量计费` `余额永久` |
 
 ## 🤝 贡献指南
 
