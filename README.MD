@@ -43,6 +43,8 @@
 | EasyRouter | [https://easyrouter.io/](https://easyrouter.io/) | • 无订阅制，额度抵扣算力，用多少扣多少<br>• 五月全场Token消耗8.5折，DeepSeek-v4-Pro享2.5折特惠<br>• 多档额度套餐可选：$20/$100/$500/$1500 | • 傅盛团队出品，背景实力雄厚<br>• 统一OpenAI兼容接口，一行代码切换，零迁移成本<br>• 支持40+顶级大模型，全面覆盖Claude全系列模型<br>• 全球多节点部署，智能路由，P99延迟低于200ms<br>• 99.9%可用性SLA保障，自动故障转移与负载均衡 | `全模型支持` `低延迟` `高稳定` `大厂背景` `SDK兼容好` `新用户优惠` |
 | B.AI | [https://b.ai/](https://b.ai/) | • 一个 API Key 即可调用 Claude + GPT + Gemini + 国产大模型全系列<br>• 支持区块链地址登录，纯匿名支付（兼容邮箱/Visa/Master/Apple Pay）<br>• 官方 API 直连，零篡改，价格全网最低 | • 孙宇晨（Justin Sun）团队推出的AI模型聚合平台<br>• 官方公告：[孙哥Twitter](https://x.com/justinsuntron/status/2050104947342299208)<br>• BAIClaw 上线"孙哥大脑"功能，支持用孙哥思维交易加密货币 | `新上线` `孙宇晨团队` `全模型支持` `匿名支付` `加密友好` |
 
+| lanbuff.app（蓝博中转） | https://lanbuff.app/ | • 美元计价，按正常市场汇率结算，不额外加价/不折扣<br>• 支持银行卡（国际信用卡）、支付宝、Touch 'n Go eWallet、NAVER Pay、AlipayHK<br>• 支持开具发票；不支持无理由退款（需协商） | • 面向开发者与 AI 编程用户的 LLM 中转，主打 Claude Code / Codex 等编程场景稳定性与低倍率<br>• 覆盖 Claude 全系列（含 Claude Code 专属分组 / cc max）、OpenAI 全系列（含 Codex 专属分组）、Gemini（含 gemini-cli）、Vertex Claude / Azure Claude<br>• 公开接口可探测：/api/status、/pricing、/models | `Claude Code 专属` `Codex 专属` `多模型支持` `多支付方式` `可开票` `低倍率` |
+
 ## 🤝 贡献指南
 
 欢迎提交PR补充更多优质的Claude中转API资源，提交时请确保：
